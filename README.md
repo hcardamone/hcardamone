@@ -13,8 +13,8 @@
 </p>
 <div>
 <a href="https://github.com/hcardamone">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&layout=compact&langs_count=7&theme=dracula" width="667" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="667" height="155"/>
+<p align="left" dir="auto"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&layout=compact&langs_count=7&theme=dracula" width="667" height="155"/>
+<p align="left" dir="auto"> <img src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="667" height="155"/>
 </div>
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
