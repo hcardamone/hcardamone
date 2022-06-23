@@ -11,6 +11,13 @@
 <a href="https://www.docker.com/" rel="nofollow"> </a><a href="https://www.python.org" rel="nofollow"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 
+### Estou aprendendo
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+<img src="https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg" width="40" height="40"/>
+
+  
 ### Contatos:
 <div>
 <a href = "mailto:henrique.cardamonetec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
