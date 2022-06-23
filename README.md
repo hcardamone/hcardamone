@@ -10,6 +10,13 @@
 <img src="https://camo.githubusercontent.com/7deda4901a446c74e93e7fd33bea431495932e49d60414ed5be8ee84c447f779/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65342f526f626f742d6672616d65776f726b2d6c6f676f2e706e67" alt="robot framework" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" style="max-width: 100%;"> </a> 
 <a href="https://www.docker.com/" rel="nofollow"> </a><a href="https://www.python.org" rel="nofollow"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+
+### Contatos:
+<div>
+<a href = "mailto:henrique.cardamonetec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/henriquecardamone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <div>
 <a href="https://github.com/hcardamone">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&layout=compact&langs_count=7&theme=dracula"/>
