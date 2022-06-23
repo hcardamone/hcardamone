@@ -12,7 +12,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 <div>
-(https://github-readme-stats.vercel.app/api?username=hcardamone)
+<a href="https://github.com/hcardamone">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcardamone"&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!---
 hcardamone/hcardamone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
