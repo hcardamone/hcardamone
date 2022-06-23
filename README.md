@@ -12,9 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 <div>
-<a href="https://github.com/hcardamone">
-<p align="left" dir="auto"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&layout=compact&langs_count=7&theme=dracula" width="667" height="155" style="max-width: 100%;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="667" height="155" style="max-width: 100%;"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcardamone)](https://github.com/hcardamone/github-readme-stats)
 </div>
 <!---
 hcardamone/hcardamone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
