@@ -13,7 +13,7 @@
 
 ### Estou aprendendo
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/320px-SAP_2011_logo.svg.png" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/320px-SAP_2011_logo.svg.png" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="max-width: 100%;">
 
   
 ### Contatos:
