@@ -16,9 +16,14 @@
 <p align="left" dir="auto"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&layout=compact&langs_count=7&theme=dracula" width="667" height="155" style="max-width: 100%;"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="667" height="155" style="max-width: 100%;"/>
 </div>
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>snk - interactive</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><script defer src="5349917d0ac193431890.js"></script></head>
+  <body>
+  </body>
+</html>
 <!---
 hcardamone/hcardamone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
