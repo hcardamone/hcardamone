@@ -13,9 +13,7 @@
 
 ### Estou aprendendo
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
-<img src="https://commons.wikimedia.org/wiki/File:SAP_2011_logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="40" height="40"/>
 
   
 ### Contatos:
