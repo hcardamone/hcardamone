@@ -23,7 +23,7 @@
 </div>
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone?username=hcardamone&layout=compact&langs_count=7&theme=dracula&exclude_repo=github-readme-stats,hcardamone.github.io" style="max-width: 100%;/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&exclude_repo=github-readme-stats" style="max-width: 100%;/>
 <a href="https://github.com/hcardamone"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!---
