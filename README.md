@@ -34,7 +34,7 @@
   
 ## ⭐ Informações sobre minha conta GitHub
 <div>
-<a href="https://github.com/hcardamone/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&exclude_repo=github-readme-stats&theme=github_dark" style="max-width: 100%;/>
+<a href="https://github.com/hcardamone"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&exclude_repo=github-readme-stats&theme=github_dark" style="max-width: 100%;/>
 <a href="https://github.com/hcardamone"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 <!---
