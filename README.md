@@ -23,8 +23,8 @@
 </div>
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&exclude_repo=github-readme-stats&theme=dracula" style="max-width: 100%;/>
-<a href="https://github.com/hcardamone"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&exclude_repo=github-readme-stats&theme=github_dark" style="max-width: 100%;/>
+<a href="https://github.com/hcardamone"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 <!---
 hcardamone/hcardamone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
