@@ -2,9 +2,9 @@
 <img align="right" height="250" src="https://github.com/hcardamone/commun-imagecontents/blob/main/Screenshot_20220625-182621-812.png">
 
 <h1>Oi, eu sou o Henrique Cardamone!:metal:</h1>
-- 👀 Tenho interesse em qa automation<p>
-- 🌱 Atualmente estou aprendendo sobre robot framework x python x sap ecc<p>
-- 🔭 Posso colaborar com meu conhecimento em automação de processos no SAP GUI com robot framework<p>
+- 👀 Tenho interesse em QA Automation<p>
+- 🌱 Atualmente estou aprendendo sobre Robot Framework x Python x SAP ECC<p>
+- 🔭 Posso colaborar com meu conhecimento em automação de processos no SAP GUI com Robot Framework<p>
 - 📫 Como me encontrar henrique.cardamonetec@gmail.com
 
 <h2>:muscle: :robot: Analista de Testes</h2>
