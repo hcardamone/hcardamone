@@ -5,7 +5,7 @@
 - 👀 Tenho interesse em QA Automation<p>
 - 🌱 Atualmente estou aprendendo sobre Robot Framework x Python x SAP ECC<p>
 - 🔭 Posso colaborar com meu conhecimento em automação de processos no SAP GUI com Robot Framework<p>
-- 🎮🎨🖌️ Meus Hobbies sao: Jogar video game e desenhar (a foto do meu perfil, eu que desenhei 😜<p>
+- 🎮🎨🖌️ Meus Hobbies são: Jogar video game e desenhar (a foto do meu perfil, eu que desenhei 😜)<p>
 - 📫 Como me encontrar henrique.cardamonetec@gmail.com
 
 <h2>:muscle: :robot: Analista de Testes</h2>
