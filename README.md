@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=hcardamone&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
-<img align="right" height="250" src="https://github.com/hcardamone/commun-imagecontents/blob/main/Screenshot_20220625-182621-812.png">
+<img align="right" height="250" src="https://github.com/hcardamone/commun-imagecontents/blob/main/octocat-1656505344825.png">
 
 <h1>Oi, eu sou o Henrique Cardamone!:metal:</h1>
 - 👀 Tenho interesse em QA Automation<p>
