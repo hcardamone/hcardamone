@@ -1,15 +1,38 @@
-<img src="https://komarev.com/ghpvc/?username=hcardamone&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hcardamone&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Henrique Cardamone"style="max-width: 100%;"/> </p>
+
 <img align="right" height="250" src="https://github.com/hcardamone/commun-imagecontents/blob/main/octocat-1656505344825.png">
 
-<h1>Oi, eu sou o Henrique Cardamone!:metal:</h1>
-- 👀 Tenho interesse em QA Automation<p>
-- 🌱 Atualmente estou aprendendo sobre Robot Framework x Python x SAP ECC<p>
-- 🔭 Posso colaborar com meu conhecimento em automação de processos no SAP GUI com Robot Framework<p>
-- 🎮🎨🖌️ Meus Hobbies são: Jogar video game e desenhar (a foto do meu perfil, eu que desenhei 😜)<p>
-- 📫 Como me encontrar henrique.cardamonetec@gmail.com
+# Hi, I'm Henrique Cardamone!:metal
 
-<h2>:muscle: :robot: Analista de Testes</h2>
-💬 Estudei tecnólogo em tecnologia de redes de computadores, hoje estou no 7°(sétimo) semestre de Ciência da Computação, estou na área de tecnologia desde 2014, e passei por experiências como analista de campo, onde eu realizava manutenções em PDV's (pontos de vendas de supermercados) em um sistema baseado no linux, após essa experiência, atuei como analista de suporte onde fui responsável pelo suporte ao cliente referente a área de nota fiscal eletrônica, análise de informações e correção de eventuais problemas com notas fiscais eletrônicas e outros tipos de documentos fiscais da América Latina. (NFE, NFSe, Cte,  NFC-e, Inbound e Outbound), análise de Bancos de dados (SQL, ORACLE), arquivos IDOC (SAP) manutenção de servidores Windows server 2012 /superiores - Integração e participação com as equipes de Desenvolvimento BR. Foi ai então que em 2019 resolvi mudar o meu rumo profissional e comecei a estudar programação, então, de lá para cá foram mais de 20 cursos relacionado a programação. Atuei como analista de sistemas onde pude vivenciar um pouco sobre a vida de programação, logo comecei a atuar como analista de testes, foi então que me encontrei. Hoje sou analista de testes na <a href="https://sovos.com/" rel="nofollow">Sovos Compliance </a>, na area de inovações onde estou focado em automatizar processos do ERP SAP GUI com o Robot Framework :robot:!
+## :muscle: :robot: Quality Analyst
+
+- Who am I? I'm Theozinho's daddy 💙, a husband in love with my wife, a beginning digital artist, passionate about games, in love with music, and a fan of Batman, Dragon Ball, Knights of the Zodiac, etc.
+Currently, I'm helping the SAP QA Team of Sovos, implementing the new automation process using my expertise in software tests, robot framework, [Azure](https://azure.microsoft.com/pt-br/) pipelines, python, .NET PowerShell scripts, git (abapGit, Bitbucket, [azure projects](azure.com/robotframework-selenium-roboCopChatBot-automation), and others);
+
+## 💻 Experience
+
+Quality Analyst
+[Sovos Compliance](https://sovos.com/")
+- Analyze and understand any software modules;
+- Being modified and design a test plan;
+- Perform impact analysis
+- Write test cases
+- Create, use and maintain regression test suites/plans;
+- Create test scenarios;
+- Execute test cases (manual and automated);
+- To identify what should be automated;
+- Maintain automated tests;
+- Active participation in team meetings;
+- Understands release process and how it affects their team;
+- Responsible to Develop/Maintain automated tests with Robot Framework;
+- Generate automation .NET PowerShell Scripts;
+- Responsible to Develop/Maintain Azure Pipiles;:robot:!
+
+## 📝 Education
+
+- [Anhembi-Morumbi] - Computer Science | Agos de 2019 - Dez de 2023
+- [Uninove] - Tecnologia em redes de computadores | Agos de 2013 - Dez de 2015
+
 <p>
 <div>
 <a href = "mailto:henrique.cardamonetec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,21 +41,27 @@
 <a href ="https://gitlab.com/henrique.cardamonetec"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;">
 </div>
 
+## 💻 Tools and Skills
 
-## 💻 Tecnologias e Ferramentas Usadas Atualmente
-<img src="https://camo.githubusercontent.com/7deda4901a446c74e93e7fd33bea431495932e49d60414ed5be8ee84c447f779/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65342f526f626f742d6672616d65776f726b2d6c6f676f2e706e67" alt="robot framework" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" style="max-width: 100%;"></a> <a href="https://www.docker.com/" rel="nofollow"> </a><a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/256px-SAP_2011_logo.svg.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+<img src="https://camo.githubusercontent.com/7deda4901a446c74e93e7fd33bea431495932e49d60414ed5be8ee84c447f779/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65342f526f626f742d6672616d65776f726b2d6c6f676f2e706e67" alt="robot framework" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" style="max-width: 100%;"></a> <a href="https://www.docker.com/" rel="nofollow"> </a><a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/256px-SAP_2011_logo.svg.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
 
-## 🚀 Minhas Skills
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/256px-SAP_2011_logo.svg.png" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;"><img src="https://github.com/hcardamone/imagecontents/blob/main/download.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-          
-          
+## ⭐ About my Github
 
-  
-## ⭐ Informações sobre minha conta GitHub
 <div>
-<a href="https://github.com/hcardamone"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&exclude_repo=github-readme-stats&theme=prussian" style="max-width: 100%;/>
-<a href="https://github.com/hcardamone"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/hcardamone">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&exclude_repo=github-readme-stats&theme=prussian" style="max-width: 100%;/>
+        <a href="https://github.com/hcardamone"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" /> </a>
+    </a>
 </div>
+
+
+## :books: Projects
+
+- ChatBot Telegram with Robot Framework Lab [here](https://github.com/hcardamone/robotframework-roboCopChatBot-Telegram)
+- abapGit Lab [here](https://github.com/hcardamone/sap-abap-projects)
+- SAP Process Automation Robot Framework Lab [here](https://github.com/hcardamone/sap-automation-poc)
+- ChatBot Telegram with Robot Framework plus Azure Pipelines [here](https://dev.azure.com/hcardamone/_git/RF%20Selenium%20roboCopChatBot)
+
 <!---
 hcardamone/hcardamone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
