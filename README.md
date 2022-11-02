@@ -2,11 +2,11 @@
 
 <img align="right" height="250" src="https://github.com/hcardamone/commun-imagecontents/blob/main/octocat-1656505344825.png">
 
-# Hi, I'm Henrique Cardamone!:metal
+# Hi, I'm Henrique Cardamone!:metal:
 
 ## :muscle: :robot: Quality Analyst
 
-- Who am I? I'm Theozinho's daddy 💙, a husband in love with my wife, a beginning digital artist, passionate about games, in love with music, and a fan of Batman, Dragon Ball, Knights of the Zodiac, etc.
+- Who am I :shipit: ? I'm Theozinho's daddy 💙, a husband in love with my wife, a beginning digital artist, passionate about games, in love with music, and a fan of Batman, Dragon Ball, Knights of the Zodiac, etc.
 Currently, I'm helping the SAP QA Team of Sovos, implementing the new automation process using my expertise in software tests, robot framework, [Azure](https://azure.microsoft.com/pt-br/) pipelines, python, .NET PowerShell scripts, git (abapGit, Bitbucket, [azure projects](azure.com/robotframework-selenium-roboCopChatBot-automation), and others);
 
 ## 💻 Experience
