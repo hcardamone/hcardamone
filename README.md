@@ -79,6 +79,7 @@ Quality Analyst
 - abapGit Lab [here](https://github.com/hcardamone/sap-abap-projects)
 - SAP Process Automation Robot Framework Lab [here](https://github.com/hcardamone/sap-automation-poc)
 - ChatBot Telegram with Robot Framework plus Azure Pipelines [here](https://dev.azure.com/hcardamone/_git/RF%20Selenium%20roboCopChatBot)
+- Robot Framework Listener Microsoft Teams this project send microsoft teams notification after Azure Pipeline completed using Robot Framework. [here](https://dev.azure.com/hcardamone/_git/RobotFrameworkListenerTeams)
 - AI Text Generator this project could be a text generation application that uses the OpenAI API to generate text based on user prompts. [here](https://github.com/hcardamone/AITextGenerator.git)
 
 <!---
