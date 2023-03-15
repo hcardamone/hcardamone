@@ -1,61 +1,99 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=hcardamone&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Henrique Cardamone" style="max-width: 100%;" /></p>
+<div style="display: flex; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=hcardamone&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="max-width: 100%;">
+  <a href="https://wakatime.com/@8a01f836-1a55-4de2-8960-243fb914b697">
+    <img src="https://wakatime.com/badge/user/8a01f836-1a55-4de2-8960-243fb914b697.svg" alt="Wakatime" style="max-width: 100%;">
+  </a>
+</div>
 
-[![wakatime](https://wakatime.com/badge/user/8a01f836-1a55-4de2-8960-243fb914b697.svg)](https://wakatime.com/@8a01f836-1a55-4de2-8960-243fb914b697)
-
-<img align="right" height="250" src="https://github.com/hcardamone/commun-imagecontents/blob/main/octocat-1656505344825.png" />
+<img src="https://github.com/hcardamone/commun-imagecontents/blob/main/octocat-1656505344825.png" alt="Octocat" align="right" height="250">
 
 # Hi, I'm Henrique Cardamone!:metal:
 
-## :muscle: :robot: Quality Analyst
 
-- Who am I :shipit: ? I'm Theozinho's daddy 💙, a husband in love with my wife, a beginning digital artist, passionate about games, in love with music, and a fan of Batman, Dragon Ball, Knights of the Zodiac, etc.
-Currently, I'm helping the SAP QA Team of Sovos, implementing the new automation process using my expertise in software tests, robot framework, [Azure](https://azure.microsoft.com/pt-br/) pipelines, python, .NET PowerShell scripts, git (abapGit, Bitbucket, [azure projects](azure.com/robotframework-selenium-roboCopChatBot-automation), and others);
+<div>
+    <a href="mailto:henrique.cardamonetec@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/henriquecardamone" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:henrique.cardamonetec@hotmail.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" alt="Microsoft Outlook" />
+    </a>
+</div>
+
+## :muscle: :robot: Quality Analyst II
+
+As a Quality Analyst II at Sovos, I bring expertise in software testing, test automation, and collaboration with development teams. I am currently implementing a new automation process using Robot Framework, Azure Pipelines, Python, .NET PowerShell Scripts, and Git, among other tools. Beyond work, I am a proud husband and father, a budding digital artist, and a fan of games, music, and geek world favorites like Batman, Dragon Ball, and Knights of the Zodiac.
 
 ## 💻 Experience
 
-Quality Analyst
+Quality Analyst II
 [Sovos Compliance](https://sovos.com/")
-- Analyze and understand any software modules;
-- Being modified and design a test plan;
-- Perform impact analysis
-- Write test cases
-- Create, use and maintain regression test suites/plans;
-- Create test scenarios;
-- Execute test cases (manual and automated);
-- To identify what should be automated;
-- Maintain automated tests;
-- Active participation in team meetings;
-- Understands release process and how it affects their team;
-- Responsible to Develop/Maintain automated tests with Robot Framework;
-- Generate automation .NET PowerShell Scripts;
-- Responsible to Develop/Maintain Azure Pipiles;:robot:!
+As a QA II and Software Development Engineer in Test (SDET), my focus is on developing and implementing automated testing solutions to provide better awareness of the state of the products. and reliability of software applications. My main responsibilities include:
+
+- Developing and maintaining test automation frameworks that enable automated testing of 
+ software applications, ensuring the software functions correctly and meets the requirements of 
+ stakeholders.
+
+- Writing automated test cases to verify that the software functions as expected, including scripts to 
+ simulate user behavior and test edge cases.
+
+- Collaborating closely with development teams to ensure thorough testing of software code and 
+ participation in code reviews to identify potential issues.
+
+- Investigating and debugging issues using programming skills, and working with developers to 
+ implement fixes and verify that the issue has been resolved.
+
+- Ensuring test coverage for all software features and maintaining test suites to meet quality 
+ standards.
+
+- Continuously improving testing processes and methodologies, identifying areas for improvement 
+ and implementing best practices.
+
+I bring to this position my experience in developing and maintaining automated testing solutions using a variety of tools and technologies, including Robot Framework, Python, Azure Pipelines, .NET PowerShell Scripts, SAP ECC, SAP GUI Scripting API, Jira, Azure DevOps, Bitbucket, and VS Code. Additionally, my experience as a QA II and SDET has given me a strong understanding of the software development lifecycle (SDLC) and the importance of collaboration between development and testing teams to ensure high-quality software applications.
 
 ## 📝 Education
 
-- [Anhembi-Morumbi] - Computer Science | Agos de 2019 - Dez de 2023
-- [Uninove] - Tecnologia em redes de computadores | Agos de 2013 - Dez de 2015
-
-<p></p>
-<div>
-    <a href="mailto:henrique.cardamonetec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-    <a href="https://www.linkedin.com/in/henriquecardamone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-    <a href="mailto:henrique.cardamonetec@hotmail.com">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;" />
-        <a href="https://gitlab.com/henrique.cardamonetec"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;" /> </a>
-    </a>
-</div>
+- [Anhembi-Morumbi] - Bacharel of Computer Science | Agos de 2019 - Dez de 2023
 
 
 ## 💻 Tools and Skills
 
-<img
-    src="https://camo.githubusercontent.com/7deda4901a446c74e93e7fd33bea431495932e49d60414ed5be8ee84c447f779/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65342f526f626f742d6672616d65776f726b2d6c6f676f2e706e67"
+<img src="https://camo.githubusercontent.com/7deda4901a446c74e93e7fd33bea431495932e49d60414ed5be8ee84c447f779/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65342f526f626f742d6672616d65776f726b2d6c6f676f2e706e67"
     alt="robot framework"
     width="40"
     height="40"
     data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"
     style="max-width: 100%;"
-/> <a href="https://www.docker.com/" rel="nofollow"> </a> <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/256px-SAP_2011_logo.svg.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" /> </a>
+/>
+<a href="https://www.docker.com/" rel="nofollow">
+</a>
+<a href="https://www.python.org" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python"
+         width="40"
+         height="40"
+         style="max-width: 100%;"
+    />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/256px-SAP_2011_logo.svg.png"
+         width="40"
+         height="40"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+         width="40"
+         height="40"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+         width="40"
+         height="40"
+    />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+         width="40"
+         height="40"
+    />
+</a>
+
 
 ## ⭐ About my Github
 
@@ -69,9 +107,9 @@ Quality Analyst
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=outrun)](https://github.com/hcardamone/github-readme-stats)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=hcardamone&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
-[![Henrique's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hcardamone)](https://github.com/hcardamone/github-readme-stats) -->
-
+<!-- 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=hcardamone&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+[![Henrique's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hcardamone)](https://github.com/hcardamone/github-readme-stats)
 
 
 ## :books: Projects
