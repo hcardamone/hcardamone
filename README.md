@@ -24,38 +24,35 @@
 
 ## :muscle: :robot: Quality Analyst II
 
-As a Quality Analyst II at Sovos, I bring expertise in software testing, test automation, and collaboration with development teams. I am currently implementing a new automation process using Robot Framework, Azure Pipelines, Python, .NET PowerShell Scripts, and Git, among other tools. Beyond work, I am a proud husband and father, a budding digital artist, and a fan of games, music, and geek world favorites like Batman, Dragon Ball, and Knights of the Zodiac.
+Since 2010, I have been working in the IT field, and since 2019, I have been focusing on software testing. I hold a Bachelor's degree in Computer Science and am currently pursuing a Postgraduate degree in Software Engineering. I have extensive experience in both manual and automated testing of desktop, web, and API applications. Currently, I hold the position of QA Test Engineer.
 
-## 💻 Experience
+My main responsibilities include:
+ - Implementing quality processes within Squads.
+ - Planning and executing manual tests.
+ - Developing automated tests within the context of Continuous Testing.
 
-Quality Analyst II
-[Sovos Compliance](https://sovos.com/")
-As a QA II and Software Development Engineer in Test (SDET), my focus is on developing and implementing automated testing solutions to provide better awareness of the state of the products. and reliability of software applications. My main responsibilities include:
+Actively participating in the development process improvements within the Squads I work with.
+I am passionate about Agile Testing and test automation and am always willing to share knowledge through articles and demonstrations.
 
-- Developing and maintaining test automation frameworks that enable automated testing of 
- software applications, ensuring the software functions correctly and meets the requirements of 
- stakeholders.
+## 💻 Expertise and Experience:
 
-- Writing automated test cases to verify that the software functions as expected, including scripts to 
- simulate user behavior and test edge cases.
+ - Proficiency in Agile testing and test automation (continuous testing).
+ - Experience with SAP ERP and Fiscal Regulatory systems.
+ - Proficiency in Desktop application testing.
+ - Experience in API and Web testing.
 
-- Collaborating closely with development teams to ensure thorough testing of software code and 
- participation in code reviews to identify potential issues.
-
-- Investigating and debugging issues using programming skills, and working with developers to 
- implement fixes and verify that the issue has been resolved.
-
-- Ensuring test coverage for all software features and maintaining test suites to meet quality 
- standards.
-
-- Continuously improving testing processes and methodologies, identifying areas for improvement 
- and implementing best practices.
-
-I bring to this position my experience in developing and maintaining automated testing solutions using a variety of tools and technologies, including Robot Framework, Python, Azure Pipelines, .NET PowerShell Scripts, SAP ECC, SAP GUI Scripting API, Jira, Azure DevOps, Bitbucket, and VS Code. Additionally, my experience as a QA II and SDET has given me a strong understanding of the software development lifecycle (SDLC) and the importance of collaboration between development and testing teams to ensure high-quality software applications.
+## :robot: Test Automation:
+ - Technology Stacks: Python and NET.
+ - Scripting: PowerShell and Batch.
+ - Version Control: Azure and Bitbucket.
+ - Frameworks: Robot Framework, Selenium, and Cypress.
+ - Databases: SQL Server and Oracle.
+ - DevOps: Docker and Azure Pipelines.
 
 ## 📝 Education
 
-- [Anhembi-Morumbi] - Bacharel of Computer Science | Agos de 2019 - Dez de 2023
+- [Anhembi-Morumbi] - Bachelor's degree, Computer Science | 2023 June.
+- [Estácio] - Postgraduate, Software Engineering | 2024 July.
 
 
 ## 💻 Tools and Skills
@@ -118,7 +115,7 @@ I bring to this position my experience in developing and maintaining automated t
 - abapGit Lab [here](https://github.com/hcardamone/sap-abap-projects)
 - SAP Process Automation Robot Framework Lab [here](https://github.com/hcardamone/sap-automation-poc)
 - ChatBot Telegram with Robot Framework plus Azure Pipelines [here](https://dev.azure.com/hcardamone/_git/RF%20Selenium%20roboCopChatBot)
-- Robot Framework Listener Microsoft Teams this project send microsoft teams notification after Azure Pipeline completed using Robot Framework. [here](https://github.com/hcardamone/RobotFrameworkListenerTeams.git)
+- Robot Framework Listener Microsoft Teams this project sends Microsoft teams notifications after Azure Pipeline is completed using Robot Framework. [here](https://github.com/hcardamone/RobotFrameworkListenerTeams.git)
 - AI Text Generator this project could be a text generation application that uses the OpenAI API to generate text based on user prompts. [here](https://github.com/hcardamone/AITextGenerator.git)
 
 <!---
