@@ -7,7 +7,7 @@
 
 <img src="https://github.com/hcardamone/commun-imagecontents/blob/main/octocat-1656505344825.png" alt="Octocat" align="right" height="250">
 
-# Hi, I'm Henrique Cardamone!:metal:
+# Hi, I'm Henrique Cardamone!
 
 
 <div>
@@ -22,7 +22,7 @@
     </a>
 </div>
 
-## :muscle: :robot: Quality Analyst II
+## Quality Analyst II
 
 Since 2010, I have been working in the IT field, and since 2019, I have been focusing on software testing. I hold a Bachelor's degree in Computer Science and am currently pursuing a Postgraduate degree in Software Engineering. I have extensive experience in both manual and automated testing of desktop, web, and API applications. Currently, I hold the position of QA Test Engineer.
 
