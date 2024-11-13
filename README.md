@@ -5,8 +5,6 @@
   </a>
 </div>
 
-<img src="https://github.com/hcardamone/commun-imagecontents/blob/main/octocat-1656505344825.png" alt="Octocat" align="right" height="250">
-
 # Hi, I'm Henrique Cardamone!
 
 
