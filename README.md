@@ -1,7 +1,5 @@
 <div style="display: flex; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=hcardamone&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="max-width: 100%;">
-  <a href="https://wakatime.com/@8a01f836-1a55-4de2-8960-243fb914b697">
-    <img src="https://wakatime.com/badge/user/8a01f836-1a55-4de2-8960-243fb914b697.svg" alt="Wakatime" style="max-width: 100%;">
   </a>
 </div>
 
