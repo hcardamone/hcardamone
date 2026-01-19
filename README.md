@@ -32,7 +32,7 @@ Durante minha trajetória, consolidei competências em automação de processos,
 ## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/256px-SAP_2011_logo.svg.png" alt="SAP" width="45" height="45"/>
+    <img src="https://cdn.simpleicons.org/sap/008FD3" alt="SAP" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql-server" width="45" height="45"/>
@@ -60,4 +60,4 @@ Durante minha trajetória, consolidei competências em automação de processos,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcardamone&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's GitHub stats](
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcardamone&show_icons=true&theme=outrun)](https://github.com/hcardamone/github-readme-stats)
