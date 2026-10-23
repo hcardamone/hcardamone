@@ -4,8 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquecardamone/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.cardamonetec@gmail.com)
-[![Resume EN](https://img.shields.io/badge/Resume-EN-1a1a1a?style=for-the-badge)](./resume/Henrique-Cardamone-en-us.pdf)
-[![Currículo PT](https://img.shields.io/badge/Currículo-PT--BR-1a1a1a?style=for-the-badge)](./resume/Henrique-Cardamone-pt-br.pdf)
+[![Resume EN](https://img.shields.io/badge/Resume-EN-1a1a1a?style=for-the-badge)](./resume/en-us%20-%20Henrique%20Cesar%20Cardamone%20dos%20Santos.pdf)
+[![Currículo PT](https://img.shields.io/badge/Currículo-PT--BR-1a1a1a?style=for-the-badge)](./resume/pt-br%20-%20Henrique%20Cesar%20Cardamone%20dos%20Santos.pdf)
 
 🇺🇸 English · [🇧🇷 Português](#-português)
 
